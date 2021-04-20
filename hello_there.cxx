@@ -6,11 +6,11 @@ using namespace std;
 
 int main() 
 {
-     std::cout << "Hello there World!\n";
-     long long n = 2;
-     cout << n;
-     cin >> n;
-     cout << n;
+     cout << "Hello there World!\n";
+ //    long long n = 2;
+ //    cout << n;
+ //    cin >> n;
+ //    cout << n;
      int i = 9;
      int z = i*i;
      std::string name = "Bob2";
